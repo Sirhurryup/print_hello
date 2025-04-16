@@ -1,6 +1,6 @@
 pacman::p_load(here, tidyverse)
 
-print(There is no crying in Baseball, Goodnight!)
+print("There is no crying in Baseball, Goodnight!")
 
 data()
 print("Hello, Graph Classmates")
